@@ -1,7 +1,9 @@
 1. Create a repositpry on github
-2. Check whether you hvae git installed
+2. Check whether you have git installed
 3. Initialize git within the project we'd want to transport
 4. Add codebase to the git transporter pipeline
-5. Commit codebase that was adde
+5. Commit codebase that was added
 6. Create a connection btwn local and remote envt
 7. Push codebase to remote envt
+8. Make changes to the txt, js and python files
+9. Commit codebase added
