@@ -6,4 +6,4 @@
 6. Create a connection btwn local and remote envt
 7. Push codebase to remote envt
 8. Make changes to the txt, js and python files
-9. Commit codebase added
+9. Commit codebase added.
